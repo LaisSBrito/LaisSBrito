@@ -14,7 +14,7 @@
   <img align="center" alt="Lais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lais-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Lais-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936059704889724931/936060727234551838/20220126_0124003.gif">
+  <img align="right" alt="Lais-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936059704889724931/936084024177360906/20220126_232314.gif">
 </div>
 
  <div align="center">
