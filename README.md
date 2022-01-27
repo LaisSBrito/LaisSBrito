@@ -1,4 +1,4 @@
-### Olá! Bem vinde! Me chamo Laís Brito. 😉✨
+### Olá! Bem vinde! 😉✨
 
 - 🌱 Estudante de programação
 
