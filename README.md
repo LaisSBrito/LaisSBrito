@@ -16,3 +16,9 @@
   <img align="center" alt="Lais-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Lais-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936059704889724931/936060727234551838/20220126_0124003.gif">
 </div>
+
+ <div align="center">
+  
+  ![Snake animation](https://github.com/LaisSBrito/LaisSBrito/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
